@@ -2,6 +2,7 @@ using BlazorGilbertoApp.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
+//Test
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
